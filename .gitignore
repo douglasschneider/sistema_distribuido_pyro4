@@ -1,0 +1,6 @@
+si_pyro/
+venv/
+.venv/
+env/
+.env/
+teste.txt
